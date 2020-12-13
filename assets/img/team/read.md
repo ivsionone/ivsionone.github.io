@@ -1,0 +1,1 @@
+area for team img
