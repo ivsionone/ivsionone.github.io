@@ -1,0 +1,1 @@
+area for vendor js
